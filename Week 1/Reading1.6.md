@@ -1,0 +1,1 @@
+# [Reading 1.6: Protect the AWS Root User](https://learning.edx.org/course/course-v1:AWS+AWS-AWS-OTP-AWSD16+1T2023/block-v1:AWS+AWS-AWS-OTP-AWSD16+1T2023+type@sequential+block@a2234195da664b9e8f0c28533fd9682f/block-v1:AWS+AWS-AWS-OTP-AWSD16+1T2023+type@vertical+block@ff061fb8d67542f4b5cdaf4158e40823)
